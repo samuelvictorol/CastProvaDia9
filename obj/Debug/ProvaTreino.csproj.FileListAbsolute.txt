@@ -1,0 +1,13 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\bin\Debug\ProvaTreino.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\bin\Debug\ProvaTreino.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\bin\Debug\ProvaTreino.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.TelaRegistrar.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\ProvaTreino\obj\Debug\ProvaTreino.TelaLogado.resources
